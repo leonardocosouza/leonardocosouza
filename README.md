@@ -2,12 +2,8 @@
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados.
-- 🌱 Estou estudando Kubernetes / Terraform.
 - 👯 Co-Organizador SQL BH
-- 💬  Triatleta na distância 70.3, 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬  Triatleta na distância 70.3
 -->
 
   ##
