@@ -1,4 +1,4 @@
-### Olá!!! Sou o Leonardo Côco
+### Olá!!! Bem-vindo(a) ao meu perfil, sou o Leonardo Côco
 
 
 - 🔭 Atualmente trabalho com Engenharia de Dados.
